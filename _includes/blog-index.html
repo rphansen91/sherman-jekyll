@@ -1,0 +1,32 @@
+		<!-- Blog Section -->
+		<!-- Pulls Blogs from richardsherman25.tumblr.com -->
+		<section id="blog" class="">
+			<div class="aside-container">
+				<div class="aside-content">
+					<div class="container">
+						<div class="row">
+							<div class="span12 pagination-centered">
+								<a href="blog.html"><h1 class="section-title text-center">Blog</h1></a>								
+								
+							</div>
+						</div>
+					
+					{% include section-banner.html %}
+						<!-- blogs -->
+
+						<div class="row">
+							{% for post in site.posts limit: 2 %}
+								{% include thumbnail.html %}
+							{% endfor %}			
+						</div>							
+
+						<div class="row">							
+							{% for post in site.posts limit: 1 %}
+								{% include blog-index-mobile.html %}
+							{% endfor %}												
+						</div>
+					</div>
+				</div>
+						<!-- / #blogs -->
+			</div>
+		</section>

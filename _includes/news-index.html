@@ -1,0 +1,46 @@
+
+
+		<!-- News Section -->
+		<div id="news">
+		<aside class="aside-block" data-background="https://76ad72b3db5c6e89adba-b9461d1874e7740690ffb4defe625635.ssl.cf1.rackcdn.com/assets/images/backgrounds/news_bg.png" >
+			<div class="aside-overlay"></div>
+			<div class="aside-container">
+				<div class="aside-content">
+					<div class="container">
+						<div class="row">
+							<div class="span12 pagination-centered">
+								<a href="news.html"><h1 class="section-title-white text-center">LATEST NEWS</h1></a>
+															
+							</div>
+						</div>
+						<br />
+
+						{% include section-banner.html %}
+
+
+						<div class="row">
+
+						{% for post in site.categories.news limit: 3 %}
+							<div class="span4">
+								<div class="news">
+									<div class="news-head">
+										<h3><span class="normal">{{ post.date | date: "%x" }}</span><br /><span class="title">{{post.title}}</span></h3>
+										<a class="{{post.class}}" href="{{post.youtube}}"><img src="{{post.img}}" class="newsimg" alt="Blog1"></a>
+									</div>
+									<br />
+									<p class="blog_text">{{post.summary}}</p>
+																	
+									<span class="pull-left comment"><i class="icon-chat"></i></span><a href="{{post.link}}" target="_blank" class="btn btn btn-success pull-right">READ MORE</a>
+								</div>
+							</div>	
+						{% endfor %}	
+
+						</div>							
+
+			
+						
+					</div>
+				</div>
+			</div>
+		</aside>
+		</div>
