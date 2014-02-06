@@ -3,6 +3,7 @@ layout: post
 title: Super Bowl
 img: https://76ad72b3db5c6e89adba-b9461d1874e7740690ffb4defe625635.ssl.cf1.rackcdn.com/assets/images/blog/press.jpg
 excerpt: This week has given me a while to think about how amazing this season has been. I couldn’t be more proud of this team, and what we have been able to accomplish this year. Seattle is home to the greatest fans in the NFL, and we are excited to be in a position to potentially bring home the trophy that this city deserves! [...]
+category: blog
 ---
 This week has given me a while to think about how amazing this season has been. I couldn’t be more proud of this team, and what we have been able to accomplish this year. Seattle is home to the greatest fans in the NFL, and we are excited to be in a position to potentially bring home the trophy that this city deserves!
 

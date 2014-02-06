@@ -2,6 +2,7 @@
 layout: post
 title: Playoff Ready
 img: https://31.media.tumblr.com/8e34dbef261b394c4513de137c43ac92/tumblr_inline_myw04887pg1s9406j.jpg
+category: blog
 ---
 Winning the NFC West was a great achievement, but we’re not done yet! I couldn’t be more proud of my boys, and you 12s, for the amazing year we have had thus far. Seattle is truly a special place with remarkable fans who make this game fun to play! It has been a long road traveled and we have left ourselves in a position to do something amazing.
 

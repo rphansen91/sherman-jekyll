@@ -3,6 +3,7 @@ layout: post
 title: NFC Championship Game
 img: https://76ad72b3db5c6e89adba-b9461d1874e7740690ffb4defe625635.ssl.cf1.rackcdn.com/assets/images/blog/49ers_seahawks.jpg
 excerpt: Let’s keep this train rolling 12s! This year has been a fun ride and has given us a chance to reach the Super Bowl. We are aware of how big this game is, but the pressure is not felt due to the fact that we treat every week like championship week. We have always believed in preparing at a high-level, and that mindset eliminates nerves and doubt  [...]
+category: blog
 ---
 Let’s keep this train rolling 12s! This year has been a fun ride and has given us a chance to reach the Super Bowl. We are aware of how big this game is, but the pressure is not felt due to the fact that we treat every week like championship week. We have always believed in preparing at a high-level, and that mindset eliminates nerves and doubt. It is no secret that this week will bring a very heated rivalry, which is always expected when two talented and competitive teams square off. Both teams have fought through adversity to reach this point and neither of us want our season to end tomorrow.
 

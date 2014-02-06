@@ -15,7 +15,9 @@
 	box-shadow: inset 0 0 16px 0 rgba(0, 0, 0, 0.25);
 	padding-bottom:30px;
 }
-
+#blog2{
+	padding-bottom:30px;
+}
 .cursor{
 	cursor: crosshair !important;
 }

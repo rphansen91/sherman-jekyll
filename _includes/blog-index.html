@@ -16,7 +16,9 @@
 
 						<div class="row">
 							{% for post in site.posts limit: 2 %}
+							<div class="span6 hidden-phone">
 								{% include thumbnail.html %}
+							</div>
 							{% endfor %}			
 						</div>							
 

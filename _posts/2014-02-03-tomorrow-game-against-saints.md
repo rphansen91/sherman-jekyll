@@ -2,6 +2,7 @@
 layout: post
 title: Tomorrow's Game Against the Saints
 img: https://31.media.tumblr.com/e6a757c9eee1a9430449e6a32a11f078/tumblr_inline_mz73f6BfHL1s9406j.jpg
+category: blog
 ---
 Alright 12s, this is what we’ve been waiting for all year. We are in a position to achieve something special here in Seattle and it all starts tomorrow. We have plenty of frustrations from last year’s Playoff game against the Falcons, and we’ve prepared all week with these memories in mind to ensure that we never have that feeling again. Although the Playoffs present a bigger stage than the regular season, we are not treating it any different because we have always maintained a 1-0 mentality. This is going to be a dogfight that we are ready to welcome into Seattle.
 

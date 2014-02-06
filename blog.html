@@ -138,14 +138,14 @@ title: RS Blog
 
 								<!--<div id="blogs">
 								</div>-->
-						<div class="row hidden-phone">
-							{% for post in site.posts %}
-							<div class="span4  hidden-phone">
+
+							{% for post in site.categories.blog %}
+							<div class="span6 hidden-phone">
 								<br></br>
 								{% include thumbnail.html %}
 							</div>
 							{% endfor %}
-						</div>
+					
 							
 				<!-- Blog Sidebar 
 				<div class="span3 pull-right">

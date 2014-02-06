@@ -2,6 +2,7 @@
 layout: post
 title: Up Against the Cardinals
 img: https://31.media.tumblr.com/8988528e29cf6fd7ec678f6d9358d3fd/tumblr_inline_my4etkhO821s9406j.jpg
+category: blog
 ---
 Alright 12’s – we are getting down to the 4th quarter of the season and we couldn’t be more locked in! As a unit, we understand the significance of this game, but that doesn’t affect how we prepare. This team treats every week like championship week and that’s the mentality we strive to maintain. The Cardinals are a very explosive team that has a lot to play for. They are going to bring energy to CenturyLink Field tomorrow and we’re preparing for this battle!
 
