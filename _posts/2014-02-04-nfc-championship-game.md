@@ -1,0 +1,13 @@
+---
+layout: post
+title: NFC Championship Game
+img: https://76ad72b3db5c6e89adba-b9461d1874e7740690ffb4defe625635.ssl.cf1.rackcdn.com/assets/images/blog/49ers_seahawks.jpg
+excerpt: Let’s keep this train rolling 12s! This year has been a fun ride and has given us a chance to reach the Super Bowl. We are aware of how big this game is, but the pressure is not felt due to the fact that we treat every week like championship week. We have always believed in preparing at a high-level, and that mindset eliminates nerves and doubt  [...]
+---
+Let’s keep this train rolling 12s! This year has been a fun ride and has given us a chance to reach the Super Bowl. We are aware of how big this game is, but the pressure is not felt due to the fact that we treat every week like championship week. We have always believed in preparing at a high-level, and that mindset eliminates nerves and doubt. It is no secret that this week will bring a very heated rivalry, which is always expected when two talented and competitive teams square off. Both teams have fought through adversity to reach this point and neither of us want our season to end tomorrow.
+
+As always, Russell and the offense have done a great job of preparing this week. The whole mindset of our offense going into this week has been to win the third down battles. The 49ers have a very talented linebacker core that has a reputation for flying to the ball at a fast pace. Our offensive line is locked in and understands the importance of picking up these linebackers to keep the pressure off of Russell. One big factor in converting on third downs will be maintaining a balanced passing/running attack. Marshawn has been our work horse all year long and we will look to him, and Turbin, to hammer the ball between tackles and keep the chains moving for us.
+
+Our defensive mindset for this week is simple; shut everything down! The 49ers are a talented team with athletic receivers that work well in space. We have to do a great job of being physical with these receivers and making them work for every ball thrown. Our defense has taken pride in our ability to play physical and swarm to the ball. We will need to maintain an up tempo pursuit, and create pressure in the back-field in order to make big plays.
+
+To be the best, you have to beat the best. I believe that both teams are in this game because we have proven ourselves as the best in our conference. A trip to the Super Bowl isn’t going to be handed to anyone who doesn’t work for it. We need to get out there and play sound football from the first snap. I hope you 12s are ready, because everything we have worked for this year will be put on the line tomorrow! 
